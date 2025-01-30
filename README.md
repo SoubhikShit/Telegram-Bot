@@ -1,7 +1,8 @@
 Telegram AI Chatbot using Gemini AI & MongoDB 🤖🚀
-This is an advanced Telegram chatbot built using Python, Gemini AI (Google Generative AI), and MongoDB. It can handle text-based conversations, image analysis, web search, and phone number collection for user registration.
+This is an advanced Telegram chatbot named **Trief_bot** built using Python, Gemini AI (Google Generative AI), and MongoDB. It can handle text-based conversations, image analysis, web search, and phone number collection for user registration.
 
 ✨ Features
+
 ✅ AI-Powered Chatbot – Uses Gemini AI to generate human-like responses.
 
 ✅ Image Analysis – Analyzes images using Gemini Pro Vision.
